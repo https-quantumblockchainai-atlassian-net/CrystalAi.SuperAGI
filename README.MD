@@ -234,9 +234,13 @@ Explore some [good first issues](https://github.com/TransformerOptimus/SuperAGI/
 [![lalitlj](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/138583454?v=4&w=50&h=50&mask=circle)](https://github.com/lalitlj)
 [![andrew-kelly-neutralaiz](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128111428?v=4&w=50&h=50&mask=circle)](https://github.com/andrew-kelly-neutralaiz)
 [![sayan1101](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139119661?v=4&w=50&h=50&mask=circle)](https://github.com/sayan1101)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FCrystalAi.SuperAGI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FCrystalAi.SuperAGI?ref=badge_shield)
 
 
 <p align="center"><a href="https://github.com/TransformerOptimus/SuperAGI#"><img src="https://superagi.com/wp-content/uploads/2023/05/backToTopButton.png" alt="Back to top" height="29"/></a></p>
 
 ### ⚠️ Under Development!
 This project is under active development and may still have issues. We appreciate your understanding and patience. If you encounter any problems, please check the open issues first. If your issue is not listed, kindly create a new issue detailing the error or problem you experienced. Thank you for your support!
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FCrystalAi.SuperAGI.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FCrystalAi.SuperAGI?ref=badge_large)
